@@ -4,6 +4,9 @@
 /storage
 /vendor
 /.idea
+/graphql
+/app/Models
+/config/lighthouse.php
 .env
 .env.backup
 .phpunit.result.cache
